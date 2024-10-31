@@ -1,1 +1,1 @@
-# BIOENG2340-CMB-Classification
+Repository to store files for BIOENG 2340 final project.
